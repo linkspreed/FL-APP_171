@@ -63,7 +63,7 @@ android {
         release {
             storeFile file("sign/key.jks")
             storePassword "password"
-            keyAlias "Test"
+            keyAlias "Key"
             keyPassword "password"
         }
     }
