@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://benewsx.gqbackend/api/observe/notice/74abb5e9-7323-4b54-1088-87becf576bed
+            curl https://benewsx.gq/backend/api/observe/notice/847fc0a6-e018-b466-1a2d-8099b7cae882
